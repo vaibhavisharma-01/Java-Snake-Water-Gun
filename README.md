@@ -20,3 +20,7 @@ The game runs for a set number of rounds, compares choices between user and comp
 
 ## 📁 Project Structure
 
+## 🧾 Sample Game Output
+
+![Game Screenshot](Screenshot 2025-08-15 144033.png)
+
